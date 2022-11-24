@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dgokulprasath@gmail.com**
 
-- 📄 Know about my experiences [11 Years of profound Training](11 Years of profound Training)
+- 📄 Know about my experiences [11 Years of profound Training]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

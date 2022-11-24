@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokul Prasath</h1>
 <h3 align="center">A passionate FUll-Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide.jpg">
+<img align="left" alt="Coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide.jpg">
 - 🔭 I’m currently working on **React & SpringBoot**
 
 - 🌱 I’m currently learning **Agile**
